@@ -27,7 +27,7 @@ R (q,di) − A similarity function which orders the documents with respect to th
 
 The primary goal of any information retrieval system must be accuracy − to produce relevant documents as per the user’s requirement. However, the question that arises here is how can we improve the output by improving user’s query formation style. Certainly, the output of any IR system is dependent on the user’s query and a well-formatted query will produce more accurate results. The user can improve his/her query with the help of relevance feedback, an important aspect of any IR model.
 
-#IMPLEMENTATION EXPLAINED:
+# IMPLEMENTATION EXPLAINED:
 
 > There are 2 programs namely 
 - InfoRetHash.c (Implements IR with help of Hash Tables)
