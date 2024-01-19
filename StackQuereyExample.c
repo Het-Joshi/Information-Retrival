@@ -5,10 +5,7 @@ such as displaying latest searches, adding queires, clearing History,
 Searching past searchHistory
 
 Information Retrival Demo by 
-- Het Joshi 1MS21CS053
-- Hitesh Kumar 1MS21CS054
-- Varun Balaji 1MS21CS057
-- Malavika Dileep 1MS21CS069
+- Het Joshi
 */
 #include <stdio.h>
 #include <stdlib.h>
