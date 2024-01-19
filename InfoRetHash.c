@@ -3,10 +3,7 @@ an ID, title, and text. It also defines a HashTable structure that
 uses an array of Document pointers to store the documents.
 
 Information Retrival Demo by 
-- Het Joshi 1MS21CS053
-- Hitesh Kumar 1MS21CS054
-- Varun Balaji 1MS21CS057
-- Malavika Dileep 1MS21CS069
+- Het Joshi
 */
 
 #include <stdio.h>
